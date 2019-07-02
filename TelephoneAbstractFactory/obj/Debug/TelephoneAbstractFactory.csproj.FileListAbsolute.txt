@@ -1,0 +1,7 @@
+C:\Users\гороховв.CORP\source\repos\FirstLessonDP\TelephoneAbstractFactory\bin\Debug\TelephoneAbstractFactory.exe.config
+C:\Users\гороховв.CORP\source\repos\FirstLessonDP\TelephoneAbstractFactory\bin\Debug\TelephoneAbstractFactory.exe
+C:\Users\гороховв.CORP\source\repos\FirstLessonDP\TelephoneAbstractFactory\bin\Debug\TelephoneAbstractFactory.pdb
+C:\Users\гороховв.CORP\source\repos\FirstLessonDP\TelephoneAbstractFactory\obj\Debug\TelephoneAbstractFactory.csprojAssemblyReference.cache
+C:\Users\гороховв.CORP\source\repos\FirstLessonDP\TelephoneAbstractFactory\obj\Debug\TelephoneAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\гороховв.CORP\source\repos\FirstLessonDP\TelephoneAbstractFactory\obj\Debug\TelephoneAbstractFactory.exe
+C:\Users\гороховв.CORP\source\repos\FirstLessonDP\TelephoneAbstractFactory\obj\Debug\TelephoneAbstractFactory.pdb
