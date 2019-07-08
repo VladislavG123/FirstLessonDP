@@ -1,0 +1,7 @@
+C:\Users\Vlad\Source\Repos\FirstLessonDP\CarAbstractFactory\bin\Debug\CarAbstractFactory.exe.config
+C:\Users\Vlad\Source\Repos\FirstLessonDP\CarAbstractFactory\bin\Debug\CarAbstractFactory.exe
+C:\Users\Vlad\Source\Repos\FirstLessonDP\CarAbstractFactory\bin\Debug\CarAbstractFactory.pdb
+C:\Users\Vlad\Source\Repos\FirstLessonDP\CarAbstractFactory\obj\Debug\CarAbstractFactory.csprojAssemblyReference.cache
+C:\Users\Vlad\Source\Repos\FirstLessonDP\CarAbstractFactory\obj\Debug\CarAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Source\Repos\FirstLessonDP\CarAbstractFactory\obj\Debug\CarAbstractFactory.exe
+C:\Users\Vlad\Source\Repos\FirstLessonDP\CarAbstractFactory\obj\Debug\CarAbstractFactory.pdb

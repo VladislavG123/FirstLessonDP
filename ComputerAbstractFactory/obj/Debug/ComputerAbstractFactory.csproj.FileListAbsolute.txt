@@ -1,0 +1,6 @@
+C:\Users\Vlad\Source\Repos\FirstLessonDP\ComputerAbstractFactory\bin\Debug\ComputerAbstractFactory.exe.config
+C:\Users\Vlad\Source\Repos\FirstLessonDP\ComputerAbstractFactory\bin\Debug\ComputerAbstractFactory.exe
+C:\Users\Vlad\Source\Repos\FirstLessonDP\ComputerAbstractFactory\bin\Debug\ComputerAbstractFactory.pdb
+C:\Users\Vlad\Source\Repos\FirstLessonDP\ComputerAbstractFactory\obj\Debug\ComputerAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Source\Repos\FirstLessonDP\ComputerAbstractFactory\obj\Debug\ComputerAbstractFactory.exe
+C:\Users\Vlad\Source\Repos\FirstLessonDP\ComputerAbstractFactory\obj\Debug\ComputerAbstractFactory.pdb
